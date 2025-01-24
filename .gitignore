@@ -1,0 +1,8 @@
+.env
+env
+user.cfg
+.idea
+*.swp
+**/__pycache__/
+**/*.log
+**/*.db
